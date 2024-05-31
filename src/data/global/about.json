@@ -1,0 +1,132 @@
+[
+    {
+        "id": "about me",
+        "title": "Say Hello From Folks Production !",
+        "excerpt": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Laboriosam aliquid itaque expedita. Consequatur culpa praesentium optio voluptatibus asperiores pariatur obcaecati?."
+    },
+    {
+        "id": "about service",
+        "title": "Our Services",
+        "pagelinkText": [
+            "Branding & Strategy",
+            "Web Design & Development",
+            "Packaging Design",
+            "Video & Animation",
+            "Marketing, SEO & Social Media"
+        ]
+    },
+    {
+        "id": "team",
+        "title": "Meet Our Team",
+        "team": [
+            {
+                "id": 1,
+                "classOption": "team-member",
+                "image": "./img/team/02.jpg",
+                "name": "Shubham Kushwaha ",
+                "designation": "Creative Director | Design Strategist"
+            },
+            {
+                "id": 2,
+                "classOption": "team-member",
+                "image": "./img/team/02.jpg",
+                "name": "Shamik Kumar",
+                "designation": "Visual design Director | Creative Lead"
+            },
+            {
+                "id": 3,
+                "classOption": "team-member",
+                "image": "./img/team/03.jpg",
+                "name": "Sushil Kumar ",
+                "designation": "Editing Director | Content Curator"
+            },
+            {
+                "id": 4,
+                "classOption": "team-member",
+                "image": "./img/team/04.jpg",
+                "name": "Ayush Ranjan ",
+                "designation": "Creative Producer | Photography Director"
+            },
+            {
+                "id": 5,
+                "classOption": "team-member",
+                "image": "./img/team/Pawan.jpg",
+                "name": "Pawan Saini ",
+                "designation": "Technical Director | Web Architect"
+            },
+            {
+                "id": 7,
+                "classOption": "team-member",
+                "image": "./img/team/07.jpg",
+                "name": "Mithun Rakesh ",
+                "designation": "Finance Director | Clients Communication Manager"
+            },
+            {
+                "id": 8,
+                "classOption": "team-member become-member",
+                "image": "./img/team/01.jpg",
+                "name": "Become <br>member in <br>Folks"
+            }
+        ]
+    },
+    {
+        "id": "blockquote",
+        "excerpt": "I’ve worked with many agencies throughout the world. <br />I’ve found Folks Production to be one of those special agencies you wish all the others were like.",
+        "name": "Rachita Arora",
+        "url":"https://www.granmade.in/",
+        "designation": "Granmade"
+    },
+    {
+        "id": "about gallery",
+        "gallery": {
+            "imageOne": "./img/photos/g-01.jpg",
+            "imageTwo": "./img/photos/g-02.jpg",
+            "imageThree": "./img/photos/g-03.jpg"
+        }
+    },
+    {
+        "id": "Awards",
+        "title": "Awards Achieved",
+        "yearOne": "2017",
+        "yearTwo": "2016",
+        "awardItem": [
+            {
+                "id": 1,
+                "cate": "500px",
+                "title": "Photo Of The Years for <span>Emila</span>"
+            },
+            {
+                "id": 2,
+                "cate": "Unsplash",
+                "title": "Honorable Mention for <span>Listofy Stream Music App</span>"
+            },
+            {
+                "id": 3,
+                "cate": "Pexel",
+                "title": "Gold In Digital Craft for <span>Biford</span>"
+            },
+            {
+                "id": 4,
+                "cate": "500px",
+                "title": "Coporate Social Responsiblity for <span>ABC</span>"
+            },
+            {
+                "id": 5,
+                "cate": "Shutterstocks",
+                "title": "Best Showcase for <span>Gym App</span>"
+            }
+        ]
+    },
+    {
+        "id": "Brand",
+        "title": "Our Clients",
+        "excerpt": "Folks Production has been honored to partner up with these clients.",
+        "brand": [
+            {
+                "id": 1,
+                "url":"https://www.granmade.in/",
+                "image": "./img/brand-logo/01.png"
+            }
+        ]
+    }
+]

@@ -1,0 +1,33 @@
+[
+    {
+        "slider": [
+            {
+                "id": 1,
+                "backgroundImage": "/img/hero-slider/hero2.jpg",
+                "title": "Title",
+                "subTitle": "inspire 2026",
+                "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "buttonText": "Explore now"
+            },
+            {
+                "id": 2,
+                "backgroundImage": "/img/hero-slider/hero1.jpg",
+                "title": "Title",
+                "subTitle": "inspire 2026",
+                "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "buttonText": "Explore now"
+            },
+            {
+                "id": 3,
+                "backgroundImage": "/img/hero-slider/hero3.jpg",
+                "title": "Title",
+                "subTitle": "inspire 2026",
+                "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "buttonText": "Explore now"
+            }
+        ]
+    },
+    {
+        "qute": "Folks Production specializes in photography for portfolios, agencies, models, and corporations. We excel at capturing authentic moments and crafting memorable imagery."
+    }
+]

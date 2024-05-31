@@ -1,0 +1,16 @@
+[
+    {
+        "id": 1,
+        "delay": "300",
+        "title": "Contact Directly",
+        "icon": "icon_mail_alt",
+        "info": "<a href='mailto:folksproduction@gmail.com'>folksproduction@gmail.com</a><br /><a href='tel:0123456789'>0123456789</a>"
+    },
+    {
+        "id": 2,
+        "aos-delay": "600",
+        "title": "Visit our office",
+        "icon": "icon_pin_alt",
+        "info": "<p>B-1113, New Ashok Nagar, 110096, Delhi</p>"
+    }
+]
