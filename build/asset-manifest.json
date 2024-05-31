@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.28a2fc40.chunk.css",
+    "main.js": "/static/js/main.046caf7a.chunk.js",
+    "main.js.map": "/static/js/main.046caf7a.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.783b80dc.js",
+    "runtime-main.js.map": "/static/js/runtime-main.783b80dc.js.map",
+    "static/css/2.512b342e.chunk.css": "/static/css/2.512b342e.chunk.css",
+    "static/js/2.f5aa0f44.chunk.js": "/static/js/2.f5aa0f44.chunk.js",
+    "static/js/2.f5aa0f44.chunk.js.map": "/static/js/2.f5aa0f44.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.512b342e.chunk.css.map": "/static/css/2.512b342e.chunk.css.map",
+    "static/css/main.28a2fc40.chunk.css.map": "/static/css/main.28a2fc40.chunk.css.map",
+    "static/js/2.f5aa0f44.chunk.js.LICENSE.txt": "/static/js/2.f5aa0f44.chunk.js.LICENSE.txt",
+    "static/media/elegantIcons.css": "/static/media/ElegantIcons.941bf29b.woff",
+    "static/media/icofont.css": "/static/media/icofont.dad3accb.woff",
+    "static/media/lightgallery.css": "/static/media/lg.adb7aeef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.783b80dc.js",
+    "static/css/2.512b342e.chunk.css",
+    "static/js/2.f5aa0f44.chunk.js",
+    "static/css/main.28a2fc40.chunk.css",
+    "static/js/main.046caf7a.chunk.js"
+  ]
+}
