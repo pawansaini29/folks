@@ -1,6 +1,7 @@
 import { Swiper, SwiperSlide } from "swiper/react";
 import Brand from "../../../components/brand";
 import AboutData from "../../../data/global/about.json";
+import "../brand/brand.css";
 
 const BrandContainer = () => {
     return (

@@ -1,0 +1,17 @@
+.swiper-container.swiper-container-initialized .swiper-wrapper{
+    display: flex;
+    align-items: center; 
+}
+.brand-logo-item{
+    /* border: 1px solid lightgray; */
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.brand-logo-item img{
+    height: 80px;
+}
+
+.swiper-container.brand-logo-slider-container .swiper-slide{
+    width: 209px!important;
+}

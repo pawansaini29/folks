@@ -91,7 +91,7 @@ const HamburgerMenu = ({ show, onClose }) => {
                                 </li>
                                 <li>
                                     <a
-                                        href="https://www.google.co.in/"
+                                        href="./img/folks.pdf"
                                         target="_blank"
                                         rel="noopener noreferrer"
                                     >

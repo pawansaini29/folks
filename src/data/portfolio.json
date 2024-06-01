@@ -11,7 +11,7 @@
         "team": "Folks <br />Production",
         "services": "Natural, Studio, Commercial, <br />Portrait",
         "body": [
-            "<p>Details about shoot or theme ~ Mithun OP, like kiske liye shoot kiya hai hame or ye shoot abhi kaha use ho rha hai like kisi website pe hai ya kahi to uska link bhi share krenge ham </p>",
+            "<p> </p>",
             ""
         ],
         "pageUrl": {
@@ -164,7 +164,7 @@
     {
         "id": 7,
         "type": "image",
-        "homeImage": "img/portfolio/portfolio-8.jpg",
+        "homeImage": "https://i.ibb.co/nmxm8mD/29-01-jpeg.jpg",
         "title": "Product Title",
         "excerpt": "Product description",
         "categories": ["Travel"],
@@ -204,7 +204,7 @@
         "team": "Folks <br />Production",
         "services": "Natural, Studio, Commercial, <br />Portrait",
         "body": [
-            "<p>Details about shoot or theme ~ Mithun OP, like kiske liye shoot kiya hai hame or ye shoot abhi kaha use ho rha hai like kisi website pe hai ya kahi to uska link bhi share krenge ham </p>",
+            "<p> </p>",
             ""
         ],
         "pageUrl": {
@@ -231,7 +231,7 @@
         "team": "Folks <br />Production",
         "services": "Natural, Studio, Commercial, <br />Portrait",
         "body": [
-            "<p>Details about shoot or theme ~ Mithun OP, like kiske liye shoot kiya hai hame or ye shoot abhi kaha use ho rha hai like kisi website pe hai ya kahi to uska link bhi share krenge ham </p>",
+            "<p> </p>",
             ""
         ],
         "pageUrl": {
@@ -258,7 +258,7 @@
         "team": "Folks <br />Production",
         "services": "Natural, Studio, Commercial, <br />Portrait",
         "body": [
-            "<p>Details about shoot or theme ~ Mithun OP, like kiske liye shoot kiya hai hame or ye shoot abhi kaha use ho rha hai like kisi website pe hai ya kahi to uska link bhi share krenge ham </p>",
+            "<p> </p>",
             ""
         ],
         "pageUrl": {
@@ -285,7 +285,7 @@
         "team": "Folks <br />Production",
         "services": "Natural, Studio, Commercial, <br />Portrait",
         "body": [
-            "<p>Details about shoot or theme ~ Mithun OP, like kiske liye shoot kiya hai hame or ye shoot abhi kaha use ho rha hai like kisi website pe hai ya kahi to uska link bhi share krenge ham </p>",
+            "<p> </p>",
             ""
         ],
         "pageUrl": {
@@ -312,7 +312,7 @@
         "team": "Folks <br />Production",
         "services": "Natural, Studio, Commercial, <br />Portrait",
         "body": [
-            "<p>Details about shoot or theme ~ Mithun OP, like kiske liye shoot kiya hai hame or ye shoot abhi kaha use ho rha hai like kisi website pe hai ya kahi to uska link bhi share krenge ham </p>",
+            "<p> </p>",
             ""
         ],
         "pageUrl": {
@@ -339,7 +339,7 @@
         "team": "Folks <br />Production",
         "services": "Natural, Studio, Commercial, <br />Portrait",
         "body": [
-            "<p>Details about shoot or theme ~ Mithun OP, like kiske liye shoot kiya hai hame or ye shoot abhi kaha use ho rha hai like kisi website pe hai ya kahi to uska link bhi share krenge ham </p>",
+            "<p> </p>",
             ""
         ],
         "pageUrl": {
@@ -366,7 +366,7 @@
         "team": "Folks <br />Production",
         "services": "Natural, Studio, Commercial, <br />Portrait",
         "body": [
-            "<p>Details about shoot or theme ~ Mithun OP, like kiske liye shoot kiya hai hame or ye shoot abhi kaha use ho rha hai like kisi website pe hai ya kahi to uska link bhi share krenge ham </p>",
+            "<p> </p>",
             ""
         ],
         "pageUrl": {
@@ -393,7 +393,7 @@
         "team": "Folks <br />Production",
         "services": "Natural, Studio, Commercial, <br />Portrait",
         "body": [
-            "<p>Details about shoot or theme ~ Mithun OP, like kiske liye shoot kiya hai hame or ye shoot abhi kaha use ho rha hai like kisi website pe hai ya kahi to uska link bhi share krenge ham </p>",
+            "<p> </p>",
             ""
         ],
         "pageUrl": {
@@ -1406,6 +1406,195 @@
         "title": "Product Title",
         "excerpt": "Product description",
         "categories": ["Fine Arts"],
+        "client": "Client Name <br />Noida",
+        "date": "May 25th <br />2024",
+        "team": "Folks <br />Production",
+        "services": "Natural, Studio, Commercial, <br />Portrait",
+        "body": [
+            "<p>Updated portraits of all Instrument employees for the new Instrument site. A unified look and background allows photos to mesh seamlessly online. To see it live check out:</p>",
+            ""
+        ],
+        "pageUrl": {
+            "text": "https://yourwebsite.com",
+            "link": "/"
+        },
+        "gallery": {
+            "imageOne": "./img/portfolio/s1.jpg",
+            "imageTwo": "./img/portfolio/s2.jpg",
+            "imageThree": "./img/portfolio/s3.jpg",
+            "imageFour": "./img/portfolio/sv1.jpg",
+            "imageFive": "./img/portfolio/s4.jpg"
+        }
+    },
+    {
+        "id": 51,
+        "type": "image",
+        "homeImage": "https://i.ibb.co/tXrY1j9/DSC-5826-Edited.jpg",
+        "title": "Product Title",
+        "excerpt": "Product description",
+        "categories": ["Travel"],
+        "client": "Client Name <br />Noida",
+        "date": "May 25th <br />2024",
+        "team": "Folks <br />Production",
+        "services": "Natural, Studio, Commercial, <br />Portrait",
+        "body": [
+            "<p>Updated portraits of all Instrument employees for the new Instrument site. A unified look and background allows photos to mesh seamlessly online. To see it live check out:</p>",
+            ""
+        ],
+        "pageUrl": {
+            "text": "https://yourwebsite.com",
+            "link": "/"
+        },
+        "gallery": {
+            "imageOne": "./img/portfolio/s1.jpg",
+            "imageTwo": "./img/portfolio/s2.jpg",
+            "imageThree": "./img/portfolio/s3.jpg",
+            "imageFour": "./img/portfolio/sv1.jpg",
+            "imageFive": "./img/portfolio/s4.jpg"
+        }
+    },
+    {
+        "id": 52,
+        "type": "image",
+        "homeImage": "https://i.ibb.co/G2WrYfZ/60.png",
+        "title": "Product Title",
+        "excerpt": "Product description",
+        "categories": ["Travel"],
+        "client": "Client Name <br />Noida",
+        "date": "May 25th <br />2024",
+        "team": "Folks <br />Production",
+        "services": "Natural, Studio, Commercial, <br />Portrait",
+        "body": [
+            "<p>Updated portraits of all Instrument employees for the new Instrument site. A unified look and background allows photos to mesh seamlessly online. To see it live check out:</p>",
+            ""
+        ],
+        "pageUrl": {
+            "text": "https://yourwebsite.com",
+            "link": "/"
+        },
+        "gallery": {
+            "imageOne": "./img/portfolio/s1.jpg",
+            "imageTwo": "./img/portfolio/s2.jpg",
+            "imageThree": "./img/portfolio/s3.jpg",
+            "imageFour": "./img/portfolio/sv1.jpg",
+            "imageFive": "./img/portfolio/s4.jpg"
+        }
+    },
+    {
+        "id": 53,
+        "type": "image",
+        "homeImage": "https://i.ibb.co/gjwZCMd/SAJI9352-copy.jpg",
+        "title": "Product Title",
+        "excerpt": "Product description",
+        "categories": ["Travel"],
+        "client": "Client Name <br />Noida",
+        "date": "May 25th <br />2024",
+        "team": "Folks <br />Production",
+        "services": "Natural, Studio, Commercial, <br />Portrait",
+        "body": [
+            "<p>Updated portraits of all Instrument employees for the new Instrument site. A unified look and background allows photos to mesh seamlessly online. To see it live check out:</p>",
+            ""
+        ],
+        "pageUrl": {
+            "text": "https://yourwebsite.com",
+            "link": "/"
+        },
+        "gallery": {
+            "imageOne": "./img/portfolio/s1.jpg",
+            "imageTwo": "./img/portfolio/s2.jpg",
+            "imageThree": "./img/portfolio/s3.jpg",
+            "imageFour": "./img/portfolio/sv1.jpg",
+            "imageFive": "./img/portfolio/s4.jpg"
+        }
+    },
+    {
+        "id": 54,
+        "type": "image",
+        "homeImage": "https://i.ibb.co/9yswJZw/SAJI0015-1-copy.jpg",
+        "title": "Product Title",
+        "excerpt": "Product description",
+        "categories": ["Travel"],
+        "client": "Client Name <br />Noida",
+        "date": "May 25th <br />2024",
+        "team": "Folks <br />Production",
+        "services": "Natural, Studio, Commercial, <br />Portrait",
+        "body": [
+            "<p>Updated portraits of all Instrument employees for the new Instrument site. A unified look and background allows photos to mesh seamlessly online. To see it live check out:</p>",
+            ""
+        ],
+        "pageUrl": {
+            "text": "https://yourwebsite.com",
+            "link": "/"
+        },
+        "gallery": {
+            "imageOne": "./img/portfolio/s1.jpg",
+            "imageTwo": "./img/portfolio/s2.jpg",
+            "imageThree": "./img/portfolio/s3.jpg",
+            "imageFour": "./img/portfolio/sv1.jpg",
+            "imageFive": "./img/portfolio/s4.jpg"
+        }
+    },
+    {
+        "id": 55,
+        "type": "image",
+        "homeImage": "https://i.ibb.co/mG2ZPy7/SAJI9599-copy-2-1.jpg",
+        "title": "Product Title",
+        "excerpt": "Product description",
+        "categories": ["Travel"],
+        "client": "Client Name <br />Noida",
+        "date": "May 25th <br />2024",
+        "team": "Folks <br />Production",
+        "services": "Natural, Studio, Commercial, <br />Portrait",
+        "body": [
+            "<p>Updated portraits of all Instrument employees for the new Instrument site. A unified look and background allows photos to mesh seamlessly online. To see it live check out:</p>",
+            ""
+        ],
+        "pageUrl": {
+            "text": "https://yourwebsite.com",
+            "link": "/"
+        },
+        "gallery": {
+            "imageOne": "./img/portfolio/s1.jpg",
+            "imageTwo": "./img/portfolio/s2.jpg",
+            "imageThree": "./img/portfolio/s3.jpg",
+            "imageFour": "./img/portfolio/sv1.jpg",
+            "imageFive": "./img/portfolio/s4.jpg"
+        }
+    },
+    {
+        "id": 56,
+        "type": "image",
+        "homeImage": "https://i.ibb.co/xM7268H/IMG-20240111-201227.jpg",
+        "title": "Product Title",
+        "excerpt": "Product description",
+        "categories": ["Travel"],
+        "client": "Client Name <br />Noida",
+        "date": "May 25th <br />2024",
+        "team": "Folks <br />Production",
+        "services": "Natural, Studio, Commercial, <br />Portrait",
+        "body": [
+            "<p>Updated portraits of all Instrument employees for the new Instrument site. A unified look and background allows photos to mesh seamlessly online. To see it live check out:</p>",
+            ""
+        ],
+        "pageUrl": {
+            "text": "https://yourwebsite.com",
+            "link": "/"
+        },
+        "gallery": {
+            "imageOne": "./img/portfolio/s1.jpg",
+            "imageTwo": "./img/portfolio/s2.jpg",
+            "imageThree": "./img/portfolio/s3.jpg",
+            "imageFour": "./img/portfolio/sv1.jpg",
+            "imageFive": "./img/portfolio/s4.jpg"
+        }
+    },
+    {
+        "id": 57,
+        "type": "image",
+        "homeImage": "https://i.ibb.co/WDTjmdX/DSC-5818-Edited.jpg",
+        "title": "Product Title",
+        "excerpt": "Product description",
+        "categories": ["Travel"],
         "client": "Client Name <br />Noida",
         "date": "May 25th <br />2024",
         "team": "Folks <br />Production",

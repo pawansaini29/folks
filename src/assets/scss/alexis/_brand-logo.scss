@@ -38,7 +38,7 @@
 
 .brand-logo-item {
   img {
-    opacity: .5;
+    // opacity: .5;
     @include transition(.3s);
   }
   &:hover {

@@ -139,6 +139,3 @@ HamburgerMenu.propTypes = {
 };
 
 export default HamburgerMenu;
-export default HamburgerMenu;
-export default HamburgerMenu;
-export default HamburgerMenu;

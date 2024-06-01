@@ -1,18 +1,19 @@
 [
     {
         "id": "about me",
-        "title": "Say Hello From Folks Production !",
-        "excerpt": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Laboriosam aliquid itaque expedita. Consequatur culpa praesentium optio voluptatibus asperiores pariatur obcaecati?."
+        "title": "Capturing moments, crafting stories!!",
+        "excerpt": "Step into the world of Folks Production, where each frame unfolds a captivating tale brimming with style, creativity, and passion"
     },
     {
         "id": "about service",
         "title": "Our Services",
         "pagelinkText": [
-            "Branding & Strategy",
-            "Web Design & Development",
-            "Packaging Design",
-            "Video & Animation",
-            "Marketing, SEO & Social Media"
+            "Fashion Shoots",
+            "Portfolio Shoots",
+            "Product Shoots",
+            "Events Shoots",
+            "Commercial Shoots",
+            "Conceptual Shoots"
         ]
     },
     {
@@ -22,44 +23,44 @@
             {
                 "id": 1,
                 "classOption": "team-member",
-                "image": "./img/team/02.jpg",
+                "image": "./img/team/sinu.jpeg",
                 "name": "Shubham Kushwaha ",
-                "designation": "Creative Director | Design Strategist"
+                "designation": "Creative | Design Strategist"
             },
             {
                 "id": 2,
                 "classOption": "team-member",
-                "image": "./img/team/02.jpg",
+                "image": "./img/team/shamik.jpeg",
                 "name": "Shamik Kumar",
-                "designation": "Visual design Director | Creative Lead"
+                "designation": "Visual design | Creative Lead"
             },
             {
                 "id": 3,
                 "classOption": "team-member",
-                "image": "./img/team/03.jpg",
+                "image": "./img/team/sushil.jpeg",
                 "name": "Sushil Kumar ",
-                "designation": "Editing Director | Content Curator"
+                "designation": "Editing | Content Curator"
             },
             {
                 "id": 4,
                 "classOption": "team-member",
-                "image": "./img/team/04.jpg",
+                "image": "./img/team/ayush.JPG",
                 "name": "Ayush Ranjan ",
-                "designation": "Creative Producer | Photography Director"
+                "designation": "Creative Producer | Photography"
             },
             {
                 "id": 5,
                 "classOption": "team-member",
                 "image": "./img/team/Pawan.jpg",
                 "name": "Pawan Saini ",
-                "designation": "Technical Director | Web Architect"
+                "designation": "Technical | Web Architect"
             },
             {
                 "id": 7,
                 "classOption": "team-member",
-                "image": "./img/team/07.jpg",
+                "image": "./img/team/mithun.jpg",
                 "name": "Mithun Rakesh ",
-                "designation": "Finance Director | Clients Communication Manager"
+                "designation": "Finance | Clients Communication Manager"
             },
             {
                 "id": 8,
@@ -79,9 +80,9 @@
     {
         "id": "about gallery",
         "gallery": {
-            "imageOne": "./img/photos/g-01.jpg",
-            "imageTwo": "./img/photos/g-02.jpg",
-            "imageThree": "./img/photos/g-03.jpg"
+            "imageOne": "./img/photos/about1.jpg",
+            "imageTwo": "./img/photos/about4.jpg",
+            "imageThree": "./img/photos/about2.jpg"
         }
     },
     {
@@ -124,8 +125,48 @@
         "brand": [
             {
                 "id": 1,
+                "url":"https://brandent.in/",
+                "image": "./img/brand-logo/Brandent.png"
+            },
+            {
+                "id": 2,
                 "url":"https://www.granmade.in/",
-                "image": "./img/brand-logo/01.png"
+                "image": "./img/brand-logo/Granmade.png"
+            },
+            {
+                "id": 3,
+                "url":"javascript:void(0)",
+                "image": "./img/brand-logo/Kaanch.png"
+            },
+            {
+                "id": 4,
+                "url":"https://manavrachna.edu.in/",
+                "image": "./img/brand-logo/Manav_rachna.png"
+            },
+            {
+                "id": 5,
+                "url":"https://lawmin.gov.in/",
+                "image": "./img/brand-logo/law_ministry.png"
+            },
+            {
+                "id": 5,
+                "url":"javascript:void(0)",
+                "image": "./img/brand-logo/up_to_trends.png"
+            },
+            {
+                "id": 5,
+                "url":"https://kanpekiskin.com/",
+                "image": "./img/brand-logo/Kanpeki.png"
+            },
+            {
+                "id": 6,
+                "url":"https://sportsauthorityofindia.nic.in/sai/",
+                "image": "./img/brand-logo/sports.png"
+            },
+            {
+                "id": 7,
+                "url":"https://www.halwaipop.com/",
+                "image": "./img/brand-logo/HalwaiPop.png"
             }
         ]
     }

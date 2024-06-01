@@ -1,13 +1,13 @@
-import { useState } from "react";
 import { LightgalleryProvider } from "react-lightgallery";
 import PortfolioFilter from "../../../components/portfolio/portfolio-filter";
 import PortfolioItem from "../../../components/portfolio/portfolio-item";
 import PortfolioData from "../../../data/portfolio.json";
 import useMasonry from "../../../hooks/use-masonry";
 import { slugify } from "../../../utils";
+import { useEffect } from "react";
 
 const PortfolioContainer = () => {
-    const [selectedCategory, setSelectedCategory] = useState("featured");
+    // Isotope Categories list JS
     const { categories } = useMasonry(
         PortfolioData,
         ".portfolio-list",
@@ -15,15 +15,33 @@ const PortfolioContainer = () => {
         ".messonry-button",
         ".messonry-button button"
     );
+    useEffect(() => {
+        const clickFeaturedButton = () => {
+            const featuredButton = document.querySelector(
+                'button[data-filter=".featured"]'
+            );
+            if (featuredButton) {
+                featuredButton.click();
+            } else {
+                console.error("Featured button not found");
+            }
+        };
 
-    const filteredData =
-        selectedCategory === "featured"
-            ? PortfolioData.slice(0, 10)
-            : PortfolioData.filter((portfolio) =>
-                  portfolio.categories.some(
-                      (cat) => slugify(cat) === selectedCategory
-                  )
-              );
+        const waitForButton = () => {
+            const featuredButton = document.querySelector(
+                'button[data-filter=".featured"]'
+            );
+            if (featuredButton) {
+                featuredButton.click();
+            } else {
+                // Retry after a short delay
+                setTimeout(waitForButton, 100);
+            }
+        };
+
+        waitForButton();
+    }, []);
+    const initialData = PortfolioData.slice(0, 60);
 
     return (
         <div className="portfolio-area portfolio-default-area">
@@ -31,31 +49,27 @@ const PortfolioContainer = () => {
                 <div className="row">
                     <div className="col-12">
                         <div className="messonry-button text-center mb-50">
-                            <PortfolioFilter
-                                categories={categories}
-                                onCategoryChange={setSelectedCategory}
-                            />
+                            <PortfolioFilter categories={categories} />
                         </div>
                     </div>
                 </div>
                 <div className="row row-cols-1 row-cols-sm-2 row-cols-lg-3 row-cols-xl-4 portfolio-list mb-n30">
                     <div className="col resizer"></div>
+
                     <LightgalleryProvider>
-                        {filteredData &&
-                            filteredData.map((portfolio) => (
-                                <div
-                                    key={portfolio.id}
-                                    // eslint-disable-next-line react/no-unknown-property
-                                    group={`any`}
-                                    className={`col masonry-grid mb-30 ${portfolio.categories
-                                        .map((cat) => slugify(cat))
-                                        .join(" ")}`}
-                                >
-                                    <PortfolioItem portfolio={portfolio} />
-                                </div>
-                            ))}
+                        {initialData.map((portfolio) => (
+                            <div
+                                key={portfolio.id}
+                                className={`col masonry-grid mb-30 ${portfolio.categories
+                                    .map((cat) => slugify(cat))
+                                    .join(" ")}`}
+                            >
+                                <PortfolioItem portfolio={portfolio} />
+                            </div>
+                        ))}
                     </LightgalleryProvider>
                 </div>
+
                 <div className="row">
                     <div className="col-lg-12 text-center mt-60">
                         <button className="btn-portfolio">loading</button>

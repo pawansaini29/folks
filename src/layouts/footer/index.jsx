@@ -65,7 +65,7 @@ const Footer = () => {
                                     <li className="social-text">
                                         <span>follow us on social</span>
                                     </li>
-                                    <li>
+                                    {/* <li>
                                         <a
                                             href="https://twitter.com/"
                                             target="_blank"
@@ -73,8 +73,8 @@ const Footer = () => {
                                         >
                                             <i className="social_twitter"></i>
                                         </a>
-                                    </li>
-                                    <li>
+                                    </li> */}
+                                    {/* <li>
                                         <a
                                             href="https://www.facebook.com/"
                                             target="_blank"
@@ -82,10 +82,10 @@ const Footer = () => {
                                         >
                                             <i className="social_facebook"></i>
                                         </a>
-                                    </li>
+                                    </li> */}
                                     <li>
                                         <a
-                                            href="https://www.instagram.com/"
+                                            href="https://www.instagram.com/folksproduction.in/"
                                             target="_blank"
                                             rel="noopener noreferrer"
                                         >

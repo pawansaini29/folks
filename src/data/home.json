@@ -3,31 +3,31 @@
         "slider": [
             {
                 "id": 1,
-                "backgroundImage": "/img/hero-slider/hero2.jpg",
-                "title": "Title",
-                "subTitle": "inspire 2026",
-                "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
-                "buttonText": "Explore now"
+                "backgroundImage": "./img/hero-slider/4.jpg",
+                "title": "",
+                "subTitle": "",
+                "desc": "",
+                "buttonText": ""
             },
             {
                 "id": 2,
-                "backgroundImage": "/img/hero-slider/hero1.jpg",
-                "title": "Title",
-                "subTitle": "inspire 2026",
-                "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
-                "buttonText": "Explore now"
+                "backgroundImage": "/img/hero-slider/1.jpg",
+                "title": "",
+                "subTitle": "",
+                "desc": "",
+                "buttonText": ""
             },
             {
                 "id": 3,
-                "backgroundImage": "/img/hero-slider/hero3.jpg",
-                "title": "Title",
-                "subTitle": "inspire 2026",
-                "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
-                "buttonText": "Explore now"
+                "backgroundImage": "/img/hero-slider/0.jpg",
+                "title": "",
+                "subTitle": "",
+                "desc": "",
+                "buttonText": ""
             }
         ]
     },
     {
-        "qute": "Folks Production specializes in photography for portfolios, agencies, models, and corporations. We excel at capturing authentic moments and crafting memorable imagery."
+        "qute": "Capturing moments, crafting stories!! <br>Step into the world of Folks Production, where each frame unfolds a captivating tale with style, creativity, and passion."
     }
 ]
